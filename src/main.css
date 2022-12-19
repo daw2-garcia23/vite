@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://images3.alphacoders.com/239/239007.jpg");
+}
+#letraLink{
+    color: rgb(189, 188, 188)
+}
+#btnAceptar{
+    padding-left: 45%;
+    width: 180%;
+}
+#btnRegistrar{
+    padding-left: 45%;
+    width: 180%;
+}
+#btnAceptarRegistro{
+    padding-left: 45%;
+    width: 180%;
+}
+.icono{
+    width: 520%;
+}
+#tabla{
+    justify-content: center;
+  
+    width: 100%;
+}   
+#cajaInfo{
+    margin-top: -50%;
+}
+.fueraA a{
+    text-decoration: none;
+    color: white;
+}

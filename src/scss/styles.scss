@@ -34,10 +34,11 @@ $offcanvas-box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
 $body-color: #ffffff;
 $body-bg: #212529;
 $border-radius: .4rem;
-$success: #7952b3;
+$success: #b6a61a;
 $secondary: #e45361;
 $warning :#359669;
 $headings-font-family:'Rubik Glitch';
+$info:#2134dd;
 
 // Required
 @import "~bootstrap/scss/functions";
@@ -97,3 +98,9 @@ body {
 
 
 
+.casita{
+  text-decoration: none;
+}
+#letraLink{
+  margin-left: -5px;
+}
